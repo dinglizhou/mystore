@@ -3,14 +3,16 @@
       "themeName": "测试",
       "themeDesc": "",
       "themeAuthor": "dingdashenxian",
-      "themeIcon": "https://i2.hdslb.com/bfs/face/b70f6e62e4582d4fa5d48d86047e64eb57d7504e.jpg",
+      "themeIcon": "https://album.biliimg.com/bfs/new_dyn/15948f7931de603b706a79a9deff4b66143333683.jpg",
       "darkTheme": false
     },
     "gifs": [
       
     ],
     "backgroundImages": [
-     
+     "https://album.biliimg.com/bfs/new_dyn/15948f7931de603b706a79a9deff4b66143333683.jpg",
+    "https://album.biliimg.com/bfs/new_dyn/cce89ca32b644d79845dff969df12fc1143333683.jpg",
+            
       {
         "type": "bvid",
         "identifier": "BV1Da411M7ti"
